@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
+
+.special {
+    color:blue;
+}
+
+/*tiberius*/
+#nero {
+    color:green;
+}
+
+.holyromanempire {
+    width: 200px;
+}
+span {
+    color: magenta;
+}
+
+.frame {
+    margin-left: 24px;
+    margin-right: 24px;
+    
+    padding: 16px;
+    border: 2px solid white;
+
+}
