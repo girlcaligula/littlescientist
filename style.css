@@ -14,9 +14,17 @@ h1 {
     font-family: "Serif", Georgia, serif;
 }
 
-.holyromanempire {
-    width: 800px;
-    height: 500px;
+.frame {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+    padding: 30px;
+}
+
+.ScientistStyle {
+    width: 1000px;
+    height: 750px;
 }
 
 .holyromanempire {
