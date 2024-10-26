@@ -2,8 +2,16 @@ body {
     background-color: black;
 }
 
-h1 {
+p {
     color: #97D8C4;
+    font-size: 25px;
+    font-family: "Serif", Georgia, serif;
+
+}
+
+h1 {
+    font-size: 30px;
+    font-family: "Serif", Georgia, serif;
 }
 
 .holyromanempire {
